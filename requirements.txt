@@ -1,5 +1,7 @@
-tensorflow
+tensorflow>=2.12,<2.16
+gradio>=4.0
 numpy
 pandas
 scikit-learn
 matplotlib
+pillow
